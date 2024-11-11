@@ -1,2 +1,2 @@
 # Automated-code-review-system
-Developed a web-based code review tool to automate code quality checks and feedback. Designed an intuitive, responsive UI using HTML and CSS to facilitate user interaction. Implemented JavaScript for dynamic code analysis and real-time error detection. Integrated automated checks for common coding standards and best practices. 
+Web-based tool automating code quality checks for 20+ languages, built with TypeScript, HTML/CSS, React, and Tailwind CSS. Vite and TypeScript ensure robust, type-safe development. Real-time error detection and dynamic feedback, with "Fix Issues," reset functionality, and detailed, actionable reporting. Enhanced UI and comprehensive error suggestions.
